@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **ankitsharma1470@gmail.com**
 
-- ⚡ Fun fact **I Think I am funny**
 
 </p>  
 
