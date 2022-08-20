@@ -73,8 +73,4 @@
 </table>
 
 
-<!----- GitHub Repo Stuff - ankit  ------>
-<!----- GitHub Stats - ankit  ------>
-<img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/footer.gif" width="5000px">
-<p align="center">Enjoy your stay!</p>
-s
+
